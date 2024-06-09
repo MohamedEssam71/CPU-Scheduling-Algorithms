@@ -14,3 +14,5 @@ This Java program simulates various CPU scheduling algorithms, pivotal in operat
 
 These schedulers play a pivotal role in resource utilization and system performance optimization. The program offers a hands-on exploration of CPU scheduling algorithms, their intricacies, and their profound impact on system behavior.
 
+## GUI Representation
+![aa](https://github.com/MohamedEssam71/CPU-Scheduling-Algorithms/assets/101371937/71e2dd1b-3cad-4266-a63b-21e96e8ccfca)
